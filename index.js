@@ -156,7 +156,8 @@ function fillTable() {
 
           ["Day 58", "Budget Tracker", "public/Budget-Tracker/index.html"],
 
-      ["Day70","Memory Game App","./public/Memory Game App/index.html"]
+      ["Day70","Memory Game App","./public/Memory Game App/index.html"],
+      ["Day 71", "Birthday Greeting card Generator", "https://birthday-greetingcard-generator.netlify.app/"]
         
 
 
