@@ -158,12 +158,14 @@ function fillTable() {
 
         ["Day 70", "Memory Game App", "./public/Memory Game App/index.html"],
         ["Day 71","Birthday Greeting Card Generator", "https://birthday-greetingcard-generator.netlify.app/"],
+
   
-         ["Day 75", "MyPaint", "public/day75-mypaint/index.html"],
+        // ["Day 75", "MyPaint", "public/day75-mypaint/index.html"],
 
 
   
-];
+// See in Script Folder in app.js (where you can add your poject)];
+
 
 
 
@@ -191,7 +193,6 @@ function fillTable() {
 
         tbody.appendChild(row);
     });
-}
 
 document.addEventListener('DOMContentLoaded', () => {
     updateNavbar();
@@ -224,3 +225,6 @@ themeToggle.addEventListener('click', () => {
         localStorage.setItem('theme', 'dark');
     }
 });
+
+
+
